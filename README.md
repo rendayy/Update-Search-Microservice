@@ -13,3 +13,6 @@ Course 006 Microserive
    ```
    python ms1.py
    ```
+   Samakan cara itu untuk menjalankan semua server sesuai dengan dimana letak foldernya
+2. Jika sudah berjalan servernya maka, silahkan melakukan perintah CRUDS didalamnya
+3. Jika sudah jangan lupa matikan servernya ;)
