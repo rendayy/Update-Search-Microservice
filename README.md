@@ -4,3 +4,12 @@ Course 006 Microserive
 1. Clone repo:
    ```bash
    git clone https://github.com/rendayy/Update-Search-Microservice.git
+## Cara Pemakaian
+1. Jalankan masing masing server dengan cara
+     ```
+     cd SiteA/MS1
+     ```
+     Lalu jalankan
+   ```
+   python ms1.py
+   ```
